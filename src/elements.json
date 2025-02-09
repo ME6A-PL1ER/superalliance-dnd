@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "content": "<FormSection title=\"{variable}\"></FormSection>"
+  },
+  {
+    "id": 2,
+    "content": "<FormTextInput title=\"{variable}\" />"
+  },
+  {
+    "id": 3,
+    "content": "<Checkbox title=\"{variable}\" />"
+  },
+  {
+    "id": 4,
+    "content": "<FormSection title=\"{variable}\"></FormSection>"
+  }
+]
